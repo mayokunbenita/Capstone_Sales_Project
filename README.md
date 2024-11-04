@@ -10,7 +10,8 @@ This project focuses on the analysis of a Retail Store's Sale Performance. The a
 
 ### Data Sources
 ---
-The primary source of Data used is Capstone Sales Data.csv which is attached in my repository [CUSTOMERDATACSV.csv](https://github.com/user-attachments/files/17618421/CUSTOMERDATACSV.csv)
+The primary source of Data used is Capstone Sales Data.csv which is attached in my repository  [SALESDATACSV.csv](https://github.com/user-attachments/files/17620755/SALESDATACSV.csv)
+
 
 ### Tools Used
 ---
