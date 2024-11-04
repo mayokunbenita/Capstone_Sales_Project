@@ -35,7 +35,7 @@ EDA involved the expolring of Data to answer some questions about the data such 
 - What is the Regional Performance
 - What is the Monthly Sales Trend
 
-### Data Analysis
+### Data Analysis and Visualization
 ---
 - Exploration of Data in Excel
 
