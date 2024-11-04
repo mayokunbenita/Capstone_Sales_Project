@@ -10,7 +10,7 @@ This project focuses on the analysis of a Retail Store's Sale Performance. The a
 
 ### Data Sources
 ---
-The primary source of Data used is Capstone Sales Data.csv which is attached in my repository
+The primary source of Data used is Capstone Sales Data.csv which is attached in my repository [CUSTOMERDATACSV.csv](https://github.com/user-attachments/files/17618421/CUSTOMERDATACSV.csv)
 
 ### Tools Used
 ---
@@ -52,8 +52,9 @@ EDA involved the exploring of Data to answer some questions about the data such 
 ![image](https://github.com/user-attachments/assets/ab7c0ce2-8cee-49bc-91c2-b1163151e634)  ![image](https://github.com/user-attachments/assets/7c5f05ef-efa7-4b6f-aadd-296eea06da5d)
 
 
-   
 - Data Analysis Using SQL
+
+  
 
 ### Conclusion and Recommendations
 ---
