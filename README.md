@@ -6,7 +6,7 @@ Sales Performance Analysis for a Retail Store
 
 ### Project Overview
 ---
-This project focuses on the analysis of a Retail Store's Sale Performance. The aim is to draw actionable insights regarding Product Perfomance, Regional Sales and Monthly Trends.  
+This project focuses on the analysis of a Retail Store's Sale Performance for 2023 and 2024. The aim is to draw actionable insights regarding Product Perfomance, Regional Sales and Monthly Trends.  
 
 ### Data Sources
 ---
@@ -17,7 +17,7 @@ The primary source of Data used is Capstone Sales Data.csv which is attached in 
 ---
 - Miscrosoft Excel 
    1. for Data Cleaning
-   2. For Analysi
+   2. For Analysis
    3. For Data Visualisation
 - SQL - Structured Querry Language for querring
 - Power BI for Visualisation
@@ -53,7 +53,7 @@ EDA involved the exploring of Data to answer some questions about the data such 
 ![image](https://github.com/user-attachments/assets/ab7c0ce2-8cee-49bc-91c2-b1163151e634)  ![image](https://github.com/user-attachments/assets/7c5f05ef-efa7-4b6f-aadd-296eea06da5d)
 
 
-- Data Analysis Using SQL. File attached in the portfolio
+- ### Data Analysis Using SQL. File attached in the portfolio
 
   
 
