@@ -1,5 +1,26 @@
 # Capstone_Sales_Project
 
+[Project Title](Project-Title)
+
+[Project Overview](Project-Overview)
+
+[Data Sources](Data-Sources)
+
+[Tools Used](Tools-Used)
+
+[Data Cleaning and Preparation](Data-Cleaning-and-Preparation)
+
+[Exploratory Data Analysis](Exploratory-Data-Analysis)
+
+[Data Analysis and Visualization](Data-Analysis-and-Visualization)
+
+[Conclusion](Conclusion)
+
+[key Findings](key-Findings)
+
+[Recommendations](Recommendations)
+
+
 ### Project Title 
 ---
 Sales Performance Analysis for a Retail Store
@@ -38,7 +59,7 @@ EDA involved the exploring of Data to answer some questions about the data such 
 
 ### Data Analysis and Visualization
 ---
-- Exploration of Data in Excel
+- Analysis of Data in Excel
 
 ![image](https://github.com/user-attachments/assets/681b9cd7-fd49-478e-b9e7-6c421f82f352) ![image](https://github.com/user-attachments/assets/4d147815-7ea9-4071-b30b-ced0839dba36)
 
@@ -54,18 +75,20 @@ EDA involved the exploring of Data to answer some questions about the data such 
 ![image](https://github.com/user-attachments/assets/7c5f05ef-efa7-4b6f-aadd-296eea06da5d)
 
 ## Other Data Analysed using Pivot Table (Screenshot)
-![Screenshot (27)](https://github.com/user-attachments/assets/30b2eb3a-26da-43a0-b049-51b042a03eef)
+
+![Screenshot (27)](https://github.com/user-attachments/assets/a886bd4d-751e-4040-9c25-b9bdee5335cb)
 
 ## Excel Dashboard (screenshot) 
 showing a few analysis with a slicer introduced and connected across all Charts and Slicers: File is attached in repository.
-![Screenshot (28)](https://github.com/user-attachments/assets/f5ab09aa-49a1-4558-9cf7-9952b7d42ec0)
+
+![Screenshot (28)](https://github.com/user-attachments/assets/9d6fc2c3-fcce-42c6-81a0-198c080ba587)
 
 - ### Data Analysis Using SQL. File attached in the repository.
 - ### Data Analysis Using Power BI.  File attached in the repository. 
   
 ![Screenshot (23)](https://github.com/user-attachments/assets/d80a0e22-5b7b-4c81-9a4a-f27164f65799)
 
-### Conclusion and Recommendations
+### Conclusion
 ---
 The data illustrates distinct patterns in product sales, regional performance and customer engagement.
 The Sales Performance Analysis of the Retail Store highlights strenghts and areas for improvement. 
