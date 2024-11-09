@@ -117,11 +117,17 @@ Understanding this trends can aid inventory management and promotional planning.
 
 ### Recommendations
 ---
-1. **Increase Product Strategy**
-Consider bundling products like shoes that is a top selling product with lower performing products like Socks to boost overall sale since they are complementry
-2. **leverage online channels**
-Creating exclusive campaigns can help captures sale in regions where products are not physically present.
-3. Develop and delpoy region-specific marketing strategies that reflect local demograghics and cultural preferences.
+1.  **Focus on Top Products**
+Continue promoting top-selling **(SHOES, SHIRTS, HATS)** products while investigating reasons for lower sales in other categories.
+2.  **Increase Product Strategy**
+Consider bundling products like **SHOES** that is a top selling product with lower performing products like **SOCKS** to boost overall sale, since they are both complementry products.
+3.  **Regional Strategies**
+Tailor marketing strategies based on Regional Performance, concentrating efforts in Region that show high sales potential**(SOUTH)**
+4. **leverage online channels**
+Creating exclusive campaigns can help captures sales in regions where products are not physically present across all four Regions
+5. Develop and delpoy region-specific marketing strategies that reflect local demograghics and cultural preferences.
+6. **Customer Engagement**
+Target the Top Customers **(SOPHIA, MIKE, LIAM)** withloyalty programs to enhance retention.
 
 
  
