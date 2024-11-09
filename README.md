@@ -122,7 +122,7 @@ Continue promoting top-selling **(SHOES, SHIRTS, HATS)** products while investig
 2.  **Increase Product Strategy**
 Consider bundling products like **SHOES** that is a top selling product with lower performing products like **SOCKS** to boost overall sale, since they are both complementry products.
 3.  **Regional Strategies**
-Tailor marketing strategies based on Regional Performance, concentrating efforts in Region that show high sales potential**(SOUTH)**
+Tailor marketing strategies based on Regional Performance, concentrating efforts in Region that show high sales potential **(SOUTH)**
 4. **leverage online channels**
 Creating exclusive campaigns can help captures sales in regions where products are not physically present across all four Regions
 5. Develop and delpoy region-specific marketing strategies that reflect local demograghics and cultural preferences.
