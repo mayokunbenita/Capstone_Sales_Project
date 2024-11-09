@@ -50,12 +50,20 @@ EDA involved the exploring of Data to answer some questions about the data such 
     1. Used Excel Formulas AVERAGEIF to calculate average sales for each product.
     2. Used SUMIF Functions, allowing for a comparison of Total Revenues across regions.
    
-![image](https://github.com/user-attachments/assets/ab7c0ce2-8cee-49bc-91c2-b1163151e634)  ![image](https://github.com/user-attachments/assets/7c5f05ef-efa7-4b6f-aadd-296eea06da5d)
+![image](https://github.com/user-attachments/assets/ab7c0ce2-8cee-49bc-91c2-b1163151e634) 
+![image](https://github.com/user-attachments/assets/7c5f05ef-efa7-4b6f-aadd-296eea06da5d)
 
+## Other Data Analysed using Pivot Table (Screenshot)
+![Screenshot (27)](https://github.com/user-attachments/assets/30b2eb3a-26da-43a0-b049-51b042a03eef)
+
+## Excel Dashboard (screenshot) 
+showing a few analysis with a slicer introduced and connected across all Charts and Slicers: File is attached in repository.
+![Screenshot (28)](https://github.com/user-attachments/assets/f5ab09aa-49a1-4558-9cf7-9952b7d42ec0)
 
 - ### Data Analysis Using SQL. File attached in the repository.
 - ### Data Analysis Using Power BI.  File attached in the repository. 
   
+![Screenshot (23)](https://github.com/user-attachments/assets/d80a0e22-5b7b-4c81-9a4a-f27164f65799)
 
 ### Conclusion and Recommendations
 ---
